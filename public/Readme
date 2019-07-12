@@ -1,0 +1,19 @@
+Para Rodar o Chat: 
+
+	- Instalar Node JS 
+		Ubuntu: 
+			sudo apt install nodejs
+			sudo apt install npm
+			nodejs -v
+		Mac OS: 
+			/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+			brew install node
+			node -v
+			npm -v 
+		Windows: 
+			Tutorial: 
+			https://www.shaileshjha.com/how-to-install-nodejs-and-npm-on-windows-10/
+	- node server.js
+	- Acessar http://127.0.0.1:3000
+
+
